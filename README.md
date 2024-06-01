@@ -6,5 +6,7 @@ Some description!
 
 Some other text
 
-other test lol
+## Local Develpment
+
+1. Open index.htmt in your browser
 
